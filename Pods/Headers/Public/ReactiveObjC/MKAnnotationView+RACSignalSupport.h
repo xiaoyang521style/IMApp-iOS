@@ -1,0 +1,5 @@
+XSym
+0070
+3d3209e3b03f4316ba6f1670a7be2842
+../../../ReactiveObjC/ReactiveObjC/MKAnnotationView+RACSignalSupport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

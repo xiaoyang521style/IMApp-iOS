@@ -1,0 +1,5 @@
+XSym
+0039
+1fe9109bd1ee86a1ee3dca77e18ea294
+../../../HappyDNS/HappyDNS/Util/QNDes.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

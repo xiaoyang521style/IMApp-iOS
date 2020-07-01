@@ -1,0 +1,5 @@
+XSym
+0048
+a9451ecfafa0a208f6410e4e0b64fd0e
+../../../HappyDNS/HappyDNS/Common/QNDnsManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

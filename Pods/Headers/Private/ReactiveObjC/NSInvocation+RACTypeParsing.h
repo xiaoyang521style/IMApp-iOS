@@ -1,0 +1,5 @@
+XSym
+0064
+a5ff013db115e6ca2a28655a1880af4c
+../../../ReactiveObjC/ReactiveObjC/NSInvocation+RACTypeParsing.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

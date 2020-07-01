@@ -1,0 +1,5 @@
+XSym
+0058
+9d061942962000c87350b0d2c7494604
+../../../SCLAlertView-Objective-C/SCLAlertView/SCLMacros.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

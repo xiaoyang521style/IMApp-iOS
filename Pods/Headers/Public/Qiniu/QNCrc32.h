@@ -1,0 +1,5 @@
+XSym
+0040
+cdab714c0e2ce94552db3d8584d6668a
+../../../Qiniu/QiniuSDK/Common/QNCrc32.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

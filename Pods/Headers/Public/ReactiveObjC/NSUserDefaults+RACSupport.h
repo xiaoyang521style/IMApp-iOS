@@ -1,0 +1,5 @@
+XSym
+0062
+acbba2eb016b35730d8ad22e9f59964c
+../../../ReactiveObjC/ReactiveObjC/NSUserDefaults+RACSupport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

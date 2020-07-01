@@ -1,0 +1,5 @@
+XSym
+0058
+587fb5729ce24a3dce0ed7ea352277c2
+../../../ReactiveObjC/ReactiveObjC/RACCompoundDisposable.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

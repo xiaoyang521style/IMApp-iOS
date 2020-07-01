@@ -1,0 +1,5 @@
+XSym
+0071
+6f71677bd92a08dd0873a614c83af818
+../../../../MOBFoundation/MOBFoundation.framework/Headers/IMOBFPlugin.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

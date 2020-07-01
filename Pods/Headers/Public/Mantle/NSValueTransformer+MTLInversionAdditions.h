@@ -1,0 +1,5 @@
+XSym
+0065
+040cc32c2a54dfc7f943faf301db4212
+../../../Mantle/Mantle/NSValueTransformer+MTLInversionAdditions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

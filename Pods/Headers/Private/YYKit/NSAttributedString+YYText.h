@@ -1,0 +1,5 @@
+XSym
+0060
+65317b6413d2250b0c326ced4b30ce87
+../../../YYKit/YYKit/Text/String/NSAttributedString+YYText.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

@@ -1,0 +1,5 @@
+XSym
+0044
+36bc40a38359da4735b7e29e3575777a
+../../../HappyDNS/HappyDNS/Common/QNRecord.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

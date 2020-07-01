@@ -1,0 +1,5 @@
+XSym
+0041
+7dbf13b5860a1d6699d69efcdba53704
+../../../Mantle/Mantle/extobjc/EXTScope.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

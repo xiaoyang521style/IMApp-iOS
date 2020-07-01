@@ -1,0 +1,5 @@
+XSym
+0062
+30190f34cb54d175cce6c655611dc36a
+../../../Mantle/Mantle/NSDictionary+MTLManipulationAdditions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

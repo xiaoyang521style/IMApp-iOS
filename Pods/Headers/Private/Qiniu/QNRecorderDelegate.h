@@ -1,0 +1,5 @@
+XSym
+0053
+8c5999dafc3d705eda23c21fc2b36771
+../../../Qiniu/QiniuSDK/Recorder/QNRecorderDelegate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

@@ -1,0 +1,5 @@
+XSym
+0053
+726ab94a4f8755f1bece245a7639ac9d
+../../../ReactiveObjC/ReactiveObjC/RACGroupedSignal.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

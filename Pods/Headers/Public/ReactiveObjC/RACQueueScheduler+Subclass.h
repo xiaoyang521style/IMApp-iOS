@@ -1,0 +1,5 @@
+XSym
+0063
+5777ad5be4969998e7511095520d6123
+../../../ReactiveObjC/ReactiveObjC/RACQueueScheduler+Subclass.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

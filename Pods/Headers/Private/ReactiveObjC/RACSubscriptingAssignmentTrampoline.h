@@ -1,0 +1,5 @@
+XSym
+0072
+9023401d4d39c5961fefc8107b05e914
+../../../ReactiveObjC/ReactiveObjC/RACSubscriptingAssignmentTrampoline.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

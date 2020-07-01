@@ -1,0 +1,5 @@
+XSym
+0081
+f40aca02d00ecdd53278aeecb9b3d364
+../../../ReactiveObjC/ReactiveObjC/UITableViewHeaderFooterView+RACSignalSupport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

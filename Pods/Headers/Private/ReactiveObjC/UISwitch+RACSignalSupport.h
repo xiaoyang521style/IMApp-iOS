@@ -1,0 +1,5 @@
+XSym
+0062
+5e176e740a4413f2d92be0667fa01377
+../../../ReactiveObjC/ReactiveObjC/UISwitch+RACSignalSupport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

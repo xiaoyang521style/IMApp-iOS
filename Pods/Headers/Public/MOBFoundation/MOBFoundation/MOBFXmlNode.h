@@ -1,0 +1,5 @@
+XSym
+0071
+cbf072158d62aef457c44eb88034616c
+../../../../MOBFoundation/MOBFoundation.framework/Headers/MOBFXmlNode.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

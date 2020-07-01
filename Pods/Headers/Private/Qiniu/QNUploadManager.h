@@ -1,0 +1,5 @@
+XSym
+0049
+6db0d6d8237cbf09e5f105d39a99d61c
+../../../Qiniu/QiniuSDK/Storage/QNUploadManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

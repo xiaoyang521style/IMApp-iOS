@@ -1,0 +1,5 @@
+XSym
+0062
+331c26b287a53cab9cf57374eae145d8
+../../../SCLAlertView-Objective-C/SCLAlertView/SCLSwitchView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

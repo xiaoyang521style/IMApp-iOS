@@ -1,0 +1,5 @@
+XSym
+0059
+eed144527755bfb2e247dd7d45034e3e
+../../../YYKit/YYKit/Base/UIKit/UIGestureRecognizer+YYAdd.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

@@ -1,0 +1,5 @@
+XSym
+0039
+de35a89d601215246ee83de2df0a3fa4
+../../../Qiniu/QiniuSDK/Common/QNFile.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

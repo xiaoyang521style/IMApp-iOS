@@ -1,0 +1,5 @@
+XSym
+0057
+26693ee13624e65b9e51bebb63774c4f
+../../../ReactiveObjC/ReactiveObjC/RACSignal+Operations.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

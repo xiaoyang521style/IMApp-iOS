@@ -1,0 +1,5 @@
+XSym
+0065
+7f3f32430150b5d43a382ee26c47404a
+../../../ReactiveObjC/ReactiveObjC/UITextField+RACSignalSupport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

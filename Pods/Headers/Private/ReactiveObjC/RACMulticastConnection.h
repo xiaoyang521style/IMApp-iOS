@@ -1,0 +1,5 @@
+XSym
+0059
+f7b4816ffe9da4b00ca1456c51113c57
+../../../ReactiveObjC/ReactiveObjC/RACMulticastConnection.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

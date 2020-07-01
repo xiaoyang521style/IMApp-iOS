@@ -1,0 +1,5 @@
+XSym
+0049
+fb842d5727143dc19316f7cb065cd178
+../../../HappyDNS/HappyDNS/Common/QNNetworkInfo.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

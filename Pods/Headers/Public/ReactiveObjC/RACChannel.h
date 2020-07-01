@@ -1,0 +1,5 @@
+XSym
+0047
+d698088a5989a34d4a69ca4d06acf23f
+../../../ReactiveObjC/ReactiveObjC/RACChannel.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

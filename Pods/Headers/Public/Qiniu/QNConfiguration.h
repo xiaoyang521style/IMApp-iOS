@@ -1,0 +1,5 @@
+XSym
+0049
+69fb12e5e851d0136f09ecf141d68a64
+../../../Qiniu/QiniuSDK/Storage/QNConfiguration.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

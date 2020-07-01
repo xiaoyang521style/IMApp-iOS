@@ -1,0 +1,5 @@
+XSym
+0057
+29fa865510ebe1eb1ec7e8f5fdd80673
+../../../Mantle/Mantle/NSDictionary+MTLMappingAdditions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

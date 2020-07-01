@@ -1,0 +1,5 @@
+XSym
+0052
+dc166ad24b74209dde8e7c40ce1a0ad0
+../../../Mantle/Mantle/MTLTransformerErrorHandling.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

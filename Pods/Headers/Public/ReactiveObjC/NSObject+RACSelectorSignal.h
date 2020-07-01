@@ -1,0 +1,5 @@
+XSym
+0063
+84bccca112098006b722e2ee10c8639e
+../../../ReactiveObjC/ReactiveObjC/NSObject+RACSelectorSignal.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

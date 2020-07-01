@@ -1,0 +1,5 @@
+XSym
+0073
+ff40c3a501c4cab5bc4eacf05ff1d25d
+../../../ReactiveObjC/ReactiveObjC/UIGestureRecognizer+RACSignalSupport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

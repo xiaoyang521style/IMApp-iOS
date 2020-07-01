@@ -1,0 +1,5 @@
+XSym
+0048
+4b7e3167643910c34cabc8995829f4de
+../../../HappyDNS/HappyDNS/Local/QNTxtResolver.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

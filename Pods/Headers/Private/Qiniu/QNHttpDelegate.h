@@ -1,0 +1,5 @@
+XSym
+0045
+d4a9bb320e8f2018a57edf5fd7830ce1
+../../../Qiniu/QiniuSDK/Http/QNHttpDelegate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

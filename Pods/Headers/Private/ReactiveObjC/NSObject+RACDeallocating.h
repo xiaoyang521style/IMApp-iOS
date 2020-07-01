@@ -1,0 +1,5 @@
+XSym
+0061
+6b1a41d4c31aa183ecac5c6f07c461a3
+../../../ReactiveObjC/ReactiveObjC/NSObject+RACDeallocating.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

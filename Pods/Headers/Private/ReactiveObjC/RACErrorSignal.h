@@ -1,0 +1,5 @@
+XSym
+0051
+b4ae552776f840006f636b6db2e5ee48
+../../../ReactiveObjC/ReactiveObjC/RACErrorSignal.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

@@ -1,0 +1,5 @@
+XSym
+0060
+b78161f18225571e5538790240028005
+../../../ReactiveObjC/ReactiveObjC/NSObject+RACDescription.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

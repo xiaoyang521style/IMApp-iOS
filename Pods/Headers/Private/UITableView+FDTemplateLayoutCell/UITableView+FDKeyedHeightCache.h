@@ -1,0 +1,5 @@
+XSym
+0082
+575120aa1ea192b273ddd9e06b18159b
+../../../UITableView+FDTemplateLayoutCell/Classes/UITableView+FDKeyedHeightCache.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

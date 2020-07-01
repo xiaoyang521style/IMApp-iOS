@@ -1,0 +1,5 @@
+XSym
+0068
+3c965447ba36cd5e052b1774207b803d
+../../../ReactiveObjC/ReactiveObjC/NSIndexSet+RACSequenceAdditions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

@@ -1,0 +1,5 @@
+XSym
+0049
+e940af43ae02abb19153b94d24926a78
+../../../Qiniu/QiniuSDK/Recorder/QNFileRecorder.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

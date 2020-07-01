@@ -1,0 +1,5 @@
+XSym
+0042
+5ae0e35898153b1ce901a06bed96ae8a
+../../../Qiniu/QiniuSDK/Common/QNVersion.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

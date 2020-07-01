@@ -1,0 +1,5 @@
+XSym
+0077
+730d26d582bf0e766a8f511800d9af6e
+../../../ReactiveObjC/ReactiveObjC/UIImagePickerController+RACSignalSupport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

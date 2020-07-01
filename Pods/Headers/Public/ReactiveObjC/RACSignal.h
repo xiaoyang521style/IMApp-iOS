@@ -1,0 +1,5 @@
+XSym
+0046
+c4eb7ddf0ece247da455eceeb175fbc7
+../../../ReactiveObjC/ReactiveObjC/RACSignal.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

@@ -1,0 +1,5 @@
+XSym
+0042
+0aac2ecc4b8e6faada22528260407d19
+../../../Mantle/Mantle/MTLModel+NSCoding.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

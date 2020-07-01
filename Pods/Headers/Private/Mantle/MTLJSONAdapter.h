@@ -1,0 +1,5 @@
+XSym
+0039
+83bc2605d868d6fc5be3cb461887b2a5
+../../../Mantle/Mantle/MTLJSONAdapter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

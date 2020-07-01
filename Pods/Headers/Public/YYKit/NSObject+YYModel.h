@@ -1,0 +1,5 @@
+XSym
+0045
+6766d5d98145424672876dcc18b3afe0
+../../../YYKit/YYKit/Model/NSObject+YYModel.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

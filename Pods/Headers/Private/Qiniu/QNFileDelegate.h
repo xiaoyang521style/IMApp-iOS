@@ -1,0 +1,5 @@
+XSym
+0047
+354883baa098f05f84c661ca2cfaa9bf
+../../../Qiniu/QiniuSDK/Common/QNFileDelegate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

@@ -1,0 +1,5 @@
+XSym
+0078
+bc9022284ff369fe3fb154ff40a54008
+../../../ReactiveObjC/ReactiveObjC/UICollectionReusableView+RACSignalSupport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

@@ -1,0 +1,5 @@
+XSym
+0046
+4abd0d4822716f6348c0036e41cee029
+../../../Qiniu/QiniuSDK/Common/QNALAssetFile.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

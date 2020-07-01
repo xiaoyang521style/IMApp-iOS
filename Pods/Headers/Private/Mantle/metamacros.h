@@ -1,0 +1,5 @@
+XSym
+0043
+618bbc49ba06b086ef6a0677177c8200
+../../../Mantle/Mantle/extobjc/metamacros.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

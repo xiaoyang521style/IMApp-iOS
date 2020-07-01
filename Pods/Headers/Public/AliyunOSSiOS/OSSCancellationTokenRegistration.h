@@ -1,0 +1,5 @@
+XSym
+0077
+1d54e4ca59b7f5bf1081c4074eb8bdb8
+../../../AliyunOSSiOS/AliyunOSSSDK/OSSTask/OSSCancellationTokenRegistration.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

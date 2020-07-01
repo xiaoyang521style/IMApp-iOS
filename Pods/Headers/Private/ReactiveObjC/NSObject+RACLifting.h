@@ -1,0 +1,5 @@
+XSym
+0056
+a71ca00b3ce33af8a0c702047b83e038
+../../../ReactiveObjC/ReactiveObjC/NSObject+RACLifting.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

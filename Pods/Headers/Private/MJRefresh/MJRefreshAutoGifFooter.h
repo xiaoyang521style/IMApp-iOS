@@ -1,0 +1,5 @@
+XSym
+0072
+3951d5b53a1ed13eee952c815bb7a0a8
+../../../MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoGifFooter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

@@ -1,0 +1,5 @@
+XSym
+0046
+f531a481d47f47d369200a1eca979354
+../../../AliyunOSSiOS/AliyunOSSSDK/OSSDefine.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

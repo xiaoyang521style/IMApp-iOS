@@ -1,0 +1,5 @@
+XSym
+0057
+7c833eb527af331463cb75707080801e
+../../../FMDBMigrationManager/Code/FMDBMigrationManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

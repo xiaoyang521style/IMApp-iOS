@@ -1,0 +1,5 @@
+XSym
+0060
+c1358a87fac8aa75310464ba53a61560
+../../../ReactiveObjC/ReactiveObjC/NSFileHandle+RACSupport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

@@ -1,0 +1,5 @@
+XSym
+0059
+1fd0d7f5bc695b5352de6fd5e8e7dc89
+../../../HappyDNS/HappyDNS/Local/QNHijackingDetectWrapper.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

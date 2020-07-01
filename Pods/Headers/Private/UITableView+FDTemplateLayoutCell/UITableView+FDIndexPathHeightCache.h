@@ -1,0 +1,5 @@
+XSym
+0086
+9a8abd7a712636a0455f2d718ca1e365
+../../../UITableView+FDTemplateLayoutCell/Classes/UITableView+FDIndexPathHeightCache.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

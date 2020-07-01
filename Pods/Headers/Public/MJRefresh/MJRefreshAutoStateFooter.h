@@ -1,0 +1,5 @@
+XSym
+0074
+2e8c4a3def136f0d131028b21bde9c6c
+../../../MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

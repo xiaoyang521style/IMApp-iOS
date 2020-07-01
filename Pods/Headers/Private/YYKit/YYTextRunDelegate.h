@@ -1,0 +1,5 @@
+XSym
+0052
+87f13703d4ca1c41d53a4731a58b77a0
+../../../YYKit/YYKit/Text/String/YYTextRunDelegate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

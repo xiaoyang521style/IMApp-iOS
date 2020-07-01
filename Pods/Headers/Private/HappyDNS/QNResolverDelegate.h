@@ -1,0 +1,5 @@
+XSym
+0054
+8a03dcd8f732b97e3e9011e8e2384777
+../../../HappyDNS/HappyDNS/Common/QNResolverDelegate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

@@ -1,0 +1,5 @@
+XSym
+0047
+7fa74f42a0f96d58be02093a23f6b7d7
+../../../Qiniu/QiniuSDK/Http/QNSessionManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

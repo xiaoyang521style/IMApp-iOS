@@ -1,0 +1,5 @@
+XSym
+0056
+8f6702cda278fdf212c8b70ef0994a57
+../../../ReactiveObjC/ReactiveObjC/RACValueTransformer.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

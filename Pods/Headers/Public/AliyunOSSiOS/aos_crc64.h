@@ -1,0 +1,5 @@
+XSym
+0046
+7dffaf65a446fc42876b1c7f41fc00ca
+../../../AliyunOSSiOS/AliyunOSSSDK/aos_crc64.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

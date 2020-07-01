@@ -1,0 +1,5 @@
+XSym
+0077
+b65777ed9bd452482ff48ae196a7d033
+../../../Mantle/Mantle/NSValueTransformer+MTLPredefinedTransformerAdditions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
